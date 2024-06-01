@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SummerSemester2024\\Other\\GithubProject\\PRN221\\prn231-pt1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19A5FE45-AFB5-4A3F-87B9-567D5D0AD924}|DemoBasicFormatData\\DemoBasicFormatData.csproj|d:\\summersemester2024\\other\\githubproject\\prn221\\prn231-pt1\\demobasicformatdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A5FE45-AFB5-4A3F-87B9-567D5D0AD924}|DemoBasicFormatData\\DemoBasicFormatData.csproj|solutionrelative:demobasicformatdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A5FE45-AFB5-4A3F-87B9-567D5D0AD924}|DemoBasicFormatData\\DemoBasicFormatData.csproj|d:\\summersemester2024\\other\\githubproject\\prn221\\prn231-pt1\\demobasicformatdata\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A5FE45-AFB5-4A3F-87B9-567D5D0AD924}|DemoBasicFormatData\\DemoBasicFormatData.csproj|solutionrelative:demobasicformatdata\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA0E3CC-6984-451A-BAE2-29AEC306DAC5}|DemoAdvanceFormatData\\DemoAdvanceFormatData.csproj|d:\\summersemester2024\\other\\githubproject\\prn221\\prn231-pt1\\demoadvanceformatdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FA0E3CC-6984-451A-BAE2-29AEC306DAC5}|DemoAdvanceFormatData\\DemoAdvanceFormatData.csproj|solutionrelative:demoadvanceformatdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA0E3CC-6984-451A-BAE2-29AEC306DAC5}|DemoAdvanceFormatData\\DemoAdvanceFormatData.csproj|d:\\summersemester2024\\other\\githubproject\\prn221\\prn231-pt1\\demoadvanceformatdata\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FA0E3CC-6984-451A-BAE2-29AEC306DAC5}|DemoAdvanceFormatData\\DemoAdvanceFormatData.csproj|solutionrelative:demoadvanceformatdata\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:350743133:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SummerSemester2024\\Other\\GithubProject\\PRN221\\prn231-pt1\\DemoBasicFormatData\\Program.cs",
+              "RelativeDocumentMoniker": "DemoBasicFormatData\\Program.cs",
+              "ToolTip": "D:\\SummerSemester2024\\Other\\GithubProject\\PRN221\\prn231-pt1\\DemoBasicFormatData\\Program.cs",
+              "RelativeToolTip": "DemoBasicFormatData\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:44:03.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\SummerSemester2024\\Other\\GithubProject\\PRN221\\prn231-pt1\\DemoBasicFormatData\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "DemoBasicFormatData\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\SummerSemester2024\\Other\\GithubProject\\PRN221\\prn231-pt1\\DemoBasicFormatData\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "DemoBasicFormatData\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:44:00.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SummerSemester2024\\Other\\GithubProject\\PRN221\\prn231-pt1\\DemoAdvanceFormatData\\Program.cs",
+              "RelativeDocumentMoniker": "DemoAdvanceFormatData\\Program.cs",
+              "ToolTip": "D:\\SummerSemester2024\\Other\\GithubProject\\PRN221\\prn231-pt1\\DemoAdvanceFormatData\\Program.cs",
+              "RelativeToolTip": "DemoAdvanceFormatData\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:43:40.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\SummerSemester2024\\Other\\GithubProject\\PRN221\\prn231-pt1\\DemoAdvanceFormatData\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "DemoAdvanceFormatData\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\SummerSemester2024\\Other\\GithubProject\\PRN221\\prn231-pt1\\DemoAdvanceFormatData\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "DemoAdvanceFormatData\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAUwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T14:43:10.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -7,9 +7,33 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Minh", "Minh", "{E11EB484-A
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Viet", "Viet", "{D1E9C97F-E11F-4F69-BB0B-50B8F24ACD80}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Nam", "Nam", "{723D94C4-26CB-45E7-80C6-260857A63B66}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoBasicFormatData", "DemoBasicFormatData\DemoBasicFormatData.csproj", "{19A5FE45-AFB5-4A3F-87B9-567D5D0AD924}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoAdvanceFormatData", "DemoAdvanceFormatData\DemoAdvanceFormatData.csproj", "{9FA0E3CC-6984-451A-BAE2-29AEC306DAC5}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19A5FE45-AFB5-4A3F-87B9-567D5D0AD924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A5FE45-AFB5-4A3F-87B9-567D5D0AD924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A5FE45-AFB5-4A3F-87B9-567D5D0AD924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A5FE45-AFB5-4A3F-87B9-567D5D0AD924}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FA0E3CC-6984-451A-BAE2-29AEC306DAC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FA0E3CC-6984-451A-BAE2-29AEC306DAC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FA0E3CC-6984-451A-BAE2-29AEC306DAC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FA0E3CC-6984-451A-BAE2-29AEC306DAC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{19A5FE45-AFB5-4A3F-87B9-567D5D0AD924} = {723D94C4-26CB-45E7-80C6-260857A63B66}
+		{9FA0E3CC-6984-451A-BAE2-29AEC306DAC5} = {723D94C4-26CB-45E7-80C6-260857A63B66}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1C12B238-A4CD-4213-9D96-8AE86818E9F5}
