@@ -44,8 +44,8 @@ namespace DemoResponseData.Controllers
             .ToArray();
         }
 
-        [HttpGet("GetCustom")]
-        public IActionResult GetCustom()
+        [HttpGet("GetDefault")]        
+        public IActionResult GetDefault()
         {
             return Ok(Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {

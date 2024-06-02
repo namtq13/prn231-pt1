@@ -13,10 +13,10 @@ namespace DemoResponseAPI
             builder.Services.AddControllers(
                 options =>
                 {
-                    options.ReturnHttpNotAcceptable = true;
+                    options.ReturnHttpNotAcceptable = false;
                     //options.RespectBrowserAcceptHeader = true;
-                }).AddJsonOptions(options => { options.JsonSerializerOptions.PropertyNamingPolicy = null; });
-            //.AddXmlSerializerFormatters();
+                }).AddJsonOptions(options => { options.JsonSerializerOptions.PropertyNamingPolicy = null; })
+            .AddXmlSerializerFormatters();
 
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
